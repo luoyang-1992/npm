@@ -1,7 +1,7 @@
 {
   "name": "luogratoyang",
   "description": "A Vue.js project",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "6231Javascript5 <luoyang01@cnpc.com.cn>",
   "license": "MIT",
   "private": false,
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/luoyang-1992/test.git"
+    "url": "https://github.com/luoyang-1992/npm.git"
   },
   "main": "lib/vue-directive-kit.js",
   "scripts": {
