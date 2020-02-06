@@ -12,8 +12,7 @@
   ],
   "files": [
     "lib/vue-directive-kit.js",
-    "package.json",
-    "README.md"
+    "package.json"
   ],
   "repository": {
     "type": "git",
