@@ -1,7 +1,7 @@
 {
   "name": "luogratoyang",
   "description": "A Vue.js project",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "author": "6231Javascript5 <luoyang01@cnpc.com.cn>",
   "license": "MIT",
   "private": false,
@@ -12,6 +12,7 @@
   ],
   "files": [
     "dist",
+    "packages",
     "lib/vue-directive-kit.js"
   ],
   "repository": {
