@@ -1,7 +1,7 @@
 {
   "name": "luogratoyang",
   "description": "A Vue.js project",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": "6231Javascript5 <luoyang01@cnpc.com.cn>",
   "license": "MIT",
   "private": false,
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/luoyang-1992/npm.git"
   },
-  "main": "lib/vue-directive-kit.js",
+  "main": "dist/build.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --env --open --hot",
     "build": "cross-env NODE_ENV=production webpack --env --progress --hide-modules",
