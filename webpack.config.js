@@ -8,12 +8,12 @@ module.exports = {
     path: path.resolve(__dirname, flag ? "./lib" : "./dist"),
     publicPath: flag ? "/lib/" : "/dist/",
     // 打包后生成的文件名
-    filename: flag ? "vue-directive-kit.js" : "build.js",
+    filename: flag ? "hrssc-components.js" : "build.js",
     /**
      * library指定的就是你使用require时引入的模块名
-     * 这里便是require(“vue-directive-kit”)
+     * 这里便是require(“hrssc-components”)
      */
-    library: flag ? "vue-directive-kit" : "",
+    library: flag ? "hrssc-components" : "",
     /**
      * libraryTarget可以指定打包文件中代码的模块化方式，默认为var，常见有如下几种:
      * commonjs/commonjs2: 将你的library暴露为CommonJS模块

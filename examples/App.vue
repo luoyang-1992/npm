@@ -18,7 +18,9 @@
     <container title="员工信息批量修改">
       <batch-tool></batch-tool>
     </container>
-    <employee-search></employee-search>
+    <container title="员工信息查询">
+      <employee-search></employee-search>
+    </container>
   </div>
 </template>
 

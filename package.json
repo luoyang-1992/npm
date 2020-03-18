@@ -1,14 +1,12 @@
 {
   "name": "luogratoyang",
   "description": "A Vue.js project",
-  "version": "1.0.12",
+  "version": "1.1.1",
   "author": "6231Javascript5 <luoyang01@cnpc.com.cn>",
   "license": "MIT",
   "private": false,
   "keywords": [
-    "vue",
-    "vue-directive-kit",
-    "vue-directive"
+    "hrssc-components"
   ],
   "files": [
     "lib"
@@ -17,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/luoyang-1992/npm.git"
   },
-  "main": "lib/vue-directive-kit.js",
+  "main": "lib/hrssc-components.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --env --open --hot",
     "build": "cross-env NODE_ENV=production webpack --env --progress --hide-modules",

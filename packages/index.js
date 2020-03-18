@@ -7,8 +7,8 @@ import EmployeeSearch from "./components/src/public/EmployeeSearch/index";
 import OnlineReport from "./components/src/public/OnlineReport/index";
 import BatchTool from "./components/src/public/BatchTool/index";
 
-import './theme/default/index.css'
-import './styles/index.scss'
+// import './theme/default/index.css'
+// import './styles/index.scss'
 
 
 // 存储组件列表
